@@ -1,10 +1,10 @@
 ## Olá seja bem vindo(a) !
 
-👨‍💻  - Atualmente sou trainee na Infocar atuando em projetos .NET usando ASP.NET, VB.NET e ajudando na migração para C#.
+👨‍💻  - Atualmente sou Desenvolvedor Junior na Infocar atuando em projetos .NET usando ASP.NET, VB.NET e ajudando na migração para C#.
 
 👨‍🎓  - Estou estudando C#.
 
-🏫  - Faço faculdade de Análise e Desenvolvimento de Sistemas.
+🏫  - Conclui a faculdade de Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
