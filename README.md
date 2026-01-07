@@ -1,10 +1,11 @@
 ## Olá seja bem vindo(a) !
 
-👨‍💻  - Atualmente sou Desenvolvedor Junior na Infocar atuando em projetos .NET usando ASP.NET, VB.NET e ajudando na migração para C#.
+👨‍💻  - Atualmente sou Desenvolvedor Junior II na Infocar atuando em projetos .NET utilizando ASP.NET, VB.NET e criando robôs de automação em C#.
 
-👨‍🎓  - Estou estudando C#.
+👨‍🎓  - Sempre desenvolvendo novas habilidades em C# e trazendo soluções!
 
-🏫  - Conclui a faculdade de Análise e Desenvolvimento de Sistemas na Unicesumar.
+🏫  - Formado em Análise e Desenvolvimento de Sistemas na Unicesumar e pós graduado em Desenvolvimento C#.
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
